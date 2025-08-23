@@ -27,10 +27,10 @@
 ```kt
 fun main() {
     println("About Me ")
-    val name = "Fuujin"
+    val name = "Dyo Marcello"
     println("My name is $name")
     
-    val age = 16
+    val age = 17
     val gender = "Male"
     
     println("Age : $age Th") 
