@@ -50,14 +50,13 @@ fun main() {
 ## 📸 My istri
 
 <p align="center">
-  <!-- Foto 1 -->
+
   <img src="https://github.com/FuujinRamiel/image/blob/main/assets/Screenshot_2025-10-08-14-21-36-328_com.google.android.googlequicksearchbox.png" width="320" alt="Foto 1" />
   <br>
-  <sub>✨ Foto 1 — With furina</sub>
+  <sub>✨ Istri 1 — With furina</sub>
 </p>
 
-  <!-- Foto 2 -->
-  <img src="https://raw.githubusercontent.com/username/repo/main/assets/" width="320" alt="Foto 2" />
+  <img src="https://github.com/FuujinRamiel/image/blob/main/assets/b2f9bc27ec575820c1c4ea60c22da43c.jpg" width="320" alt="Foto 2" />
   <br>
-  <sub>✨ Foto 2 — With citlali</sub>
+  <sub>✨ Istri 2 — With citlali</sub>
 </p>
