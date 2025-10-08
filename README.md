@@ -67,4 +67,5 @@ fun main() {
 src="https://github.com/FuujinRamiel/image/blob/main/assets/Screenshot_2025-10-07-23-30-27-789_com.miHoYo.GenshinImpact.jpg" width="1280" alt="genshin"
 />
   <br>
+  <sub> *Genshin impact*
 </p>
