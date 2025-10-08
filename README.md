@@ -1,6 +1,6 @@
 # README.md
 <p align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX4CZOFNIRceoh3ruglk5T2Wgi_QwhtudghGEuc4abBJbcKa83ThGyUqrv&s=10" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://github.com/FuujinRamiel/image/blob/main/assets/kaedehara-kazuha-autumn-samurai-genshin-impact-moewalls-com.gif" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ## It's Me? :
