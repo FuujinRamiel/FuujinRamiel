@@ -46,3 +46,34 @@ fun main() {
 </p>
 
 <!--![github toplang](https://github-readme-stats.vercel.app/api?username=ImYanXiao&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)-->
+
+# 💕 Galeri Foto Saya
+
+Selamat datang di galeri pribadi saya! 🌸  
+Berikut adalah beberapa foto yang bisa kamu lihat secara bergantian secara manual.
+
+---
+
+## 📸 Galeri Manual
+
+<p align="center">
+  <!-- Foto 1 -->
+  <img src="https://raw.githubusercontent.com/username/repo/main/assets/foto1.jpg" width="320" alt="Foto 1" />
+  <br>
+  <sub>✨ Foto 1 — Hari yang indah</sub>
+</p>
+
+<details>
+    
+---
+
+> 💡 Tips:  
+> - Taruh semua gambar kamu di folder `/assets/` di repo.  
+> - Ganti `username` dan `repo` dengan nama GitHub kamu.  
+> - Kamu bisa tambah lebih banyak foto dengan menyalin blok `<details>...</details>` di atas.
+
+---
+
+### 🪪 Catatan
+Gunakan repositori **privat** jika foto bersifat pribadi.  
+Kamu juga bisa mengganti `alt` dan `sub` untuk memberi keterangan tiap foto 💬
