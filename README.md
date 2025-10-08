@@ -58,7 +58,7 @@ Berikut adalah beberapa foto yang bisa kamu lihat secara bergantian secara manua
 
 <p align="center">
   <!-- Foto 1 -->
-  <img src="https://raw.githubusercontent.com/username/repo/main/assets/foto1.jpg" width="320" alt="Foto 1" />
+  <img src="https://github.com/FuujinRamiel/myistri/issues/1#issue-3494169308" width="320" alt="Foto 1" />
   <br>
   <sub>✨ Foto 1 — Hari yang indah</sub>
 </p>
