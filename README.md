@@ -53,6 +53,5 @@ fun main() {
   <img src="https://github.com/FuujinRamiel/image/blob/main/assets/Screenshot_2025-10-08-14-21-36-328_com.google.android.googlequicksearchbox.png" width="32%">
   <img src="https://github.com/FuujinRamiel/image/blob/main/assets/b2f9bc27ec575820c1c4ea60c22da43c.jpg" width="32%">
   <img src="https://github.com/FuujinRamiel/image/blob/main/assets/607767310529eeb9abf8986cbf1e027e.jpg" width="32%">
-  <img src="https://github.com/FuujinRamiel/image/blob/main/assets/1a36468a0b8e5a5428d093915666941f.jpg" width="32%">
-  <img src="https://github.com/FuujinRamiel/image/blob/main/assets/0be1f39749fd309b1eecc59f79e10e5a.jpg" width="32%">
+  <img src="https://github.com/FuujinRamiel/image/blob/main/assets/IMG_20251008_163543.jpg" width="32%">
 </p>
