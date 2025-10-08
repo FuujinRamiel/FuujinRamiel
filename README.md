@@ -47,7 +47,7 @@ fun main() {
 
 <!--![github toplang](https://github-readme-stats.vercel.app/api?username=ImYanXiao&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)-->
 
-# 📸 My istri
+# 💖 *My istri*
 
 <p align="center">
 
@@ -59,7 +59,7 @@ fun main() {
   <br>
 </p>
 
-# My game account 
+# 🎮*My game account*
 
  <p align="center">
 
