@@ -55,7 +55,4 @@ fun main() {
   <br>
   <sub>✨ Foto 1 — With furina</sub>
 </p>
-
-<details>
-    
 ---
