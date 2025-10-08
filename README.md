@@ -47,7 +47,7 @@ fun main() {
 
 <!--![github toplang](https://github-readme-stats.vercel.app/api?username=ImYanXiao&bg_color=100,800000,ffffff&title_color=fff&text_color=fff)-->
 
-## 📸 My istri
+# 📸 My istri
 
 <p align="center">
 
@@ -56,5 +56,15 @@ fun main() {
 </p>
 
   <img src="https://github.com/FuujinRamiel/image/blob/main/assets/b2f9bc27ec575820c1c4ea60c22da43c.jpg" width="320" alt="Foto 2" />
+  <br>
+</p>
+
+# My game account 
+
+ <p align="center">
+
+   <img 
+src="-" width="1280" alt="genshin"
+/>
   <br>
 </p>
