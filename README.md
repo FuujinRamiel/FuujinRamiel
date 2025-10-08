@@ -50,11 +50,6 @@ fun main() {
 ## My istri💖
 
 <p align="center">
-
-  <img src="https://github.com/FuujinRamiel/image/blob/main/assets/Screenshot_2025-10-08-14-21-36-328_com.google.android.googlequicksearchbox.png" width="320" alt="Foto 1" />
-  <br>
-</p>
-
-  <img src="https://github.com/FuujinRamiel/image/blob/main/assets/b2f9bc27ec575820c1c4ea60c22da43c.jpg" width="320" alt="Foto 2" />
-  <br>
+  <img src="https://github.com/FuujinRamiel/image/blob/main/assets/Screenshot_2025-10-08-14-21-36-328_com.google.android.googlequicksearchbox.png" width="32%">
+  <img src="https://github.com/FuujinRamiel/image/blob/main/assets/b2f9bc27ec575820c1c4ea60c22da43c.jpg" width="32%">
 </p>
