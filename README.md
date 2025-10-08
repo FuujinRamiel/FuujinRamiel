@@ -55,4 +55,9 @@ fun main() {
   <br>
   <sub>✨ Foto 1 — With furina</sub>
 </p>
----
+
+  <!-- Foto 2 -->
+  <img src="https://raw.githubusercontent.com/username/repo/main/assets/" width="320" alt="Foto 2" />
+  <br>
+  <sub>✨ Foto 2 — With citlali</sub>
+</p>
