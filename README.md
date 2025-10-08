@@ -51,7 +51,7 @@ fun main() {
 
 <p align="center">
   <!-- Foto 1 -->
-  <img src="https://private-user-images.githubusercontent.com/155596569/498729139-542bb40a-b109-49d6-974a-fafcd36e04f8.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTk5MDkxNDcsIm5iZiI6MTc1OTkwODg0NywicGF0aCI6Ii8xNTU1OTY1NjkvNDk4NzI5MTM5LTU0MmJiNDBhLWIxMDktNDlkNi05NzRhLWZhZmNkMzZlMDRmOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAwOFQwNzM0MDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xOTkwODVlOTc4NjRlNGU5MjgxYTA4MjVmMGNhNTI2YWM2YjdhNGRlNGQxZDJkZDcxMDUxNzA2NjMzNTJhYWY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ovGEAOfjZ8Ga3Cj2ZNwNyR7sQjLXUh9u357JArvIcck" width="320" alt="Foto 1" />
+  <img src="https://github.com/FuujinRamiel/image/blob/main/assets/Screenshot_2025-10-08-14-21-36-328_com.google.android.googlequicksearchbox.png" width="320" alt="Foto 1" />
   <br>
   <sub>✨ Foto 1 — With furina</sub>
 </p>
