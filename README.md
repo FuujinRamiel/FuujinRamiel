@@ -64,7 +64,7 @@ fun main() {
  <p align="center">
 
    <img 
-src="-" width="1280" alt="genshin"
+src="https://github.com/FuujinRamiel/image/blob/main/assets/Screenshot_2025-10-07-23-30-27-789_com.miHoYo.GenshinImpact.jpg" width="1280" alt="genshin"
 />
   <br>
 </p>
