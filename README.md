@@ -53,10 +53,8 @@ fun main() {
 
   <img src="https://github.com/FuujinRamiel/image/blob/main/assets/Screenshot_2025-10-08-14-21-36-328_com.google.android.googlequicksearchbox.png" width="320" alt="Foto 1" />
   <br>
-  <sub>✨ Istri 1 — With furina</sub>
 </p>
 
   <img src="https://github.com/FuujinRamiel/image/blob/main/assets/b2f9bc27ec575820c1c4ea60c22da43c.jpg" width="320" alt="Foto 2" />
   <br>
-  <sub>✨ Istri 2 — With citlali</sub>
 </p>
